@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+
+ div{
+    width: 800px;
+    height: 800px;
+   
+    background-image: url(../IMG/graphic-1.png);
+    background-repeat: no-repeat;
+    margin: 25px 0;
+}
+
+
+section{
+    width: 800px;
+    height: 800px;
+   background: url(../IMG/graphic.webp);
+    background-repeat: no-repeat;
+    margin: auto;
+}
